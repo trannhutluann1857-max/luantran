@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, MapPin, Calendar, ExternalLink } from 'lucide-react';
+import { Github, Linkedin, Mail, MapPin, Calendar, ExternalLink, Facebook } from 'lucide-react';
 import Layout from '@/components/Layout';
 import { cn } from '@/lib/utils';
 import techAvatar from '@/assets/tech-avatar.png';
@@ -85,7 +85,7 @@ const Profile = () => {
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 rounded-lg bg-secondary/50 px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-secondary"
                   >
-                    <Linkedin className="h-4 w-4" />
+                    <Facebook className="h-4 w-4" />
                     FaceBook
                   </a>
                   <a

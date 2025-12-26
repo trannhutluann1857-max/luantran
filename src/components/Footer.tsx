@@ -1,4 +1,4 @@
-import { Terminal, Github, Linkedin, Mail } from 'lucide-react';
+import { Terminal, Github, Linkedin, Mail, Facebook } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -32,7 +32,7 @@ const Footer = () => {
               className="rounded-lg p-2 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
               aria-label="FaceBook"
             >
-              <Linkedin className="h-5 w-5" />
+              <Facebook className="h-5 w-5" />
             </a>
             <a
               href="mailto:trannhutluann1857@gmail.com"
