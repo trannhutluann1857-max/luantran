@@ -26,11 +26,11 @@ const Footer = () => {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.facebook.com/nhut.luann"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg p-2 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
-              aria-label="LinkedIn"
+              aria-label="FaceBook"
             >
               <Linkedin className="h-5 w-5" />
             </a>

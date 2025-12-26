@@ -80,13 +80,13 @@ const Profile = () => {
                     GitHub
                   </a>
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.facebook.com/nhut.luann"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 rounded-lg bg-secondary/50 px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-secondary"
                   >
                     <Linkedin className="h-4 w-4" />
-                    LinkedIn
+                    FaceBook
                   </a>
                   <a
                     href="mailto:trannhutluann1857@gmail.com"
