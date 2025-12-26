@@ -25,7 +25,7 @@ const Header = () => {
           <Terminal className="h-6 w-6 text-primary" />
           <span className="font-mono text-lg font-bold">
             <span className="text-primary">&lt;</span>
-            DevBlog
+            LuanBlog
             <span className="text-primary">/&gt;</span>
           </span>
         </Link>

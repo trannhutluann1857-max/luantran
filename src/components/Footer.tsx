@@ -10,7 +10,7 @@ const Footer = () => {
             <Terminal className="h-5 w-5 text-primary" />
             <span className="font-mono text-sm font-bold">
               <span className="text-primary">&lt;</span>
-              DevBlog
+              LuanBlog
               <span className="text-primary">/&gt;</span>
             </span>
           </Link>

@@ -21,13 +21,13 @@ const experiences = [
   {
     title: 'Junior Developer',
     company: 'Tech Startup',
-    period: '2023 - Hiện tại',
+    period: '2024 - Hiện tại',
     description: 'Phát triển và bảo trì các ứng dụng web sử dụng Java và JavaScript.',
   },
   {
     title: 'Intern Developer',
     company: 'Software Company',
-    period: '2022 - 2023',
+    period: '2020 - 2024',
     description: 'Học hỏi và thực hành các công nghệ web hiện đại.',
   },
 ];
@@ -65,7 +65,7 @@ const Profile = () => {
                   </span>
                   <span className="flex items-center gap-1">
                     <Calendar className="h-4 w-4" />
-                    2+ năm kinh nghiệm
+                    1+ năm kinh nghiệm
                   </span>
                 </div>
 
@@ -168,7 +168,7 @@ const Profile = () => {
                   <div>
                     <h3 className="text-lg font-semibold">Kỹ Sư Công nghệ Thông tin</h3>
                     <p className="text-muted-foreground">Đại học Công Nghệ TP.HCM</p>
-                    <p className="mt-2 text-sm text-muted-foreground">2019 - 2023</p>
+                    <p className="mt-2 text-sm text-muted-foreground">2020 - 2024</p>
                   </div>
                   <a
                     href="#"
