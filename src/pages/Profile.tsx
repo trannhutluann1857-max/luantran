@@ -1,6 +1,7 @@
 import { Github, Linkedin, Mail, MapPin, Calendar, ExternalLink } from 'lucide-react';
 import Layout from '@/components/Layout';
 import { cn } from '@/lib/utils';
+import techAvatar from '@/assets/tech-avatar.png';
 
 const skills = [
   { name: 'Java', level: 90, color: 'bg-orange-500' },
@@ -40,10 +41,12 @@ const Profile = () => {
             {/* Profile Header */}
             <div className="mb-12 flex flex-col items-center text-center md:flex-row md:items-start md:text-left">
               <div className="mb-6 md:mb-0 md:mr-8">
-                <div className="relative h-32 w-32 overflow-hidden rounded-full border-4 border-primary/20 bg-gradient-to-br from-primary/20 to-accent/20">
-                  <div className="flex h-full w-full items-center justify-center text-4xl font-bold text-primary">
-                    D
-                  </div>
+                <div className="relative h-32 w-32 overflow-hidden rounded-full border-4 border-primary/20 shadow-lg">
+                  <img 
+                    src={techAvatar} 
+                    alt="Developer Avatar" 
+                    className="h-full w-full object-cover"
+                  />
                 </div>
               </div>
 
