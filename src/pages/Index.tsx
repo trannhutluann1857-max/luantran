@@ -21,7 +21,7 @@ const Index = () => {
           <div className="mx-auto max-w-3xl text-center">
             <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-4 py-2 opacity-0 animate-fade-in">
               <Sparkles className="h-4 w-4 text-primary" />
-              <span className="font-mono text-sm text-primary">Welcome to my dev blog</span>
+              <span className="font-mono text-sm text-primary">Welcome to Luân blog</span>
             </div>
 
             <h1 className="mb-6 text-4xl font-bold leading-tight opacity-0 animate-slide-up stagger-1 md:text-6xl">
@@ -33,7 +33,7 @@ const Index = () => {
 
             <p className="mb-8 text-lg text-muted-foreground opacity-0 animate-slide-up stagger-2 md:text-xl">
               Khám phá các bài viết về lập trình, từ cơ bản đến nâng cao.
-              Học hỏi, thực hành và phát triển kỹ năng coding của bạn.
+              Học hỏi, thực hành và phát triển kỹ năng lập trình của bạn.
             </p>
 
             <div className="flex flex-col items-center justify-center gap-4 opacity-0 animate-slide-up stagger-3 sm:flex-row">

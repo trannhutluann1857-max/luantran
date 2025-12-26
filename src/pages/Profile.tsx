@@ -51,7 +51,7 @@ const Profile = () => {
               </div>
 
               <div className="flex-1">
-                <h1 className="mb-2 text-3xl font-bold md:text-4xl">Developer Name</h1>
+                <h1 className="mb-2 text-3xl font-bold md:text-4xl">Trần Nhựt Luân</h1>
                 <p className="mb-4 text-lg text-primary">Full-stack Developer</p>
                 <p className="mb-4 max-w-xl text-muted-foreground">
                   Xin chào! Tôi là một lập trình viên đam mê Java và JavaScript. 
@@ -71,7 +71,7 @@ const Profile = () => {
 
                 <div className="flex items-center justify-center gap-3 md:justify-start">
                   <a
-                    href="https://github.com"
+                    href="https://github.com/trannhutluann1857-max"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 rounded-lg bg-secondary/50 px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-secondary"
@@ -89,7 +89,7 @@ const Profile = () => {
                     LinkedIn
                   </a>
                   <a
-                    href="mailto:contact@example.com"
+                    href="mailto:trannhutluann1857@gmail.com"
                     className="inline-flex items-center gap-2 rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
                   >
                     <Mail className="h-4 w-4" />
@@ -166,8 +166,8 @@ const Profile = () => {
               <div className="rounded-lg border border-border/50 bg-card/50 p-6">
                 <div className="flex items-start justify-between">
                   <div>
-                    <h3 className="text-lg font-semibold">Cử nhân Công nghệ Thông tin</h3>
-                    <p className="text-muted-foreground">Đại học XYZ</p>
+                    <h3 className="text-lg font-semibold">Kỹ Sư Công nghệ Thông tin</h3>
+                    <p className="text-muted-foreground">Đại học Công Nghệ TP.HCM</p>
                     <p className="mt-2 text-sm text-muted-foreground">2019 - 2023</p>
                   </div>
                   <a

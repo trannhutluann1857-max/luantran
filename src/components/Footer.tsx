@@ -17,7 +17,7 @@ const Footer = () => {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/trannhutluann1857-max"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg p-2 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
@@ -35,7 +35,7 @@ const Footer = () => {
               <Linkedin className="h-5 w-5" />
             </a>
             <a
-              href="mailto:contact@devblog.com"
+              href="mailto:trannhutluann1857@gmail.com"
               className="rounded-lg p-2 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
               aria-label="Email"
             >
@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
 
           <p className="font-mono text-sm text-muted-foreground">
-            © 2024 DevBlog. Built with{' '}
+            Nhut Luan Blog - 2025 {' '}
             <span className="text-primary">♥</span>
           </p>
         </div>
